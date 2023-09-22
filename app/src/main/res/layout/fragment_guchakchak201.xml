@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Guchakchak201">
+
+   <GridLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/vodochku_liem_vodochku_piem_vodochkoi_tolko_jivem67"
+       >
+
+       <ListView
+           android:id="@+id/perdachniyOPERATor"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+
+       </ListView>
+
+   </GridLayout>
+
+
+</FrameLayout>
