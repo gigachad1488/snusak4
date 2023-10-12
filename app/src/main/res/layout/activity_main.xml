@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <GridLayout
-        android:id="@+id/vodochku_liem_vodochku_piem_vodochkoi_tolko_jivem67"
+        android:id="@+id/gridlol88"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"

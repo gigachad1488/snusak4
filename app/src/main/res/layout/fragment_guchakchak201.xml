@@ -3,16 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Guchakchak201">
+    tools:context=".lwFragment">
 
    <GridLayout
        android:layout_width="match_parent"
        android:layout_height="match_parent"
-       android:id="@+id/vodochku_liem_vodochku_piem_vodochkoi_tolko_jivem67"
+       android:id="@+id/gridlol88"
        >
 
        <ListView
-           android:id="@+id/perdachniyOPERATor"
+           android:id="@+id/lw"
            android:layout_width="match_parent"
            android:layout_height="match_parent">
 

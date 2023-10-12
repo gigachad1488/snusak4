@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        getSupportFragmentManager().beginTransaction().add(R.id.vodochku_liem_vodochku_piem_vodochkoi_tolko_jivem67, new Guchakchak201(), "gugachah231").addToBackStack("gugachah231").commit();
+        getSupportFragmentManager().beginTransaction().add(R.id.gridlol88, new lwFragment(), "fr").addToBackStack("frg").commit();
     }
 }
 

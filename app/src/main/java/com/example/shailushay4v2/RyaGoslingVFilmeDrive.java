@@ -24,17 +24,15 @@ public class RyaGoslingVFilmeDrive extends ArrayAdapter<RyanGosling>
     }
 
     public View getView(int position, View convertView, ViewGroup parent) {
-
         View view=inflater.inflate(this.layout, parent, false);
 
-
-        ImageView indas = view.findViewById(R.id.indus20);
+        ImageView iv = view.findViewById(R.id.indus20);
         TextView nam = view.findViewById(R.id.servak);
         TextView tehutex1 = view.findViewById(R.id.author);
 
         RyanGosling laks = gosligi.get(position);
 
-        indas.setImageResource(laks.ImageID);
+        iv.setImageResource(laks.ImageID);
         nam.setText(laks.Name);
         tehutex1.setText(laks.Location);
 
